@@ -1,4 +1,4 @@
-public class Solution {
+public class checkIfPangram{
     public boolean checkIfPangram(String sentence) {
 
         boolean[] letters = new boolean[26];
